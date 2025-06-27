@@ -21,3 +21,17 @@ Zoo:
 
 4- Sistemin bu işlevleri yerine getirme mantığı, her gruplama için farklı olacaktır. Örneğin, atlar için yem verme algoritması farklı olup, kaplanlar için farklı olacaktır.
 
+
+Airline Management System:
+
+1- Hava yolu şirketleri uçuşları gerçekleştirir. Her hava yolunun bir kimliği vardır.Hava yolu şirketi, farklı tipteki uçaklara sahiptir.
+
+2- Uçaklar çalışır veya onarım durumunda olabilir.
+
+3- Her uçuşun benzersiz kimliği, kalkacağı ve ineceği havaalanı, kalkış ve iniş saatleri vardır. Her uçuşun bir pilotu ve yardımcı pilotu vardır ve uçağı kullanırlar.
+
+4- Havaalanlarının benzersiz kimlikleri ve isimleri vardır.
+
+5- Hava yolu şirketlerinin pilotları vardır ve her pilotun bir deneyim seviyesi mevcuttur.
+
+6- Bir uçak tipi, belirli sayıda pilota ihtiyaç duyabilir.
